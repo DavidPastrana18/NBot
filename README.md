@@ -7,4 +7,4 @@ NBot
 *Rasilla Santos Victor
 
 >Breve descripción del proyecto<
-Chatbot para el TECNM campus Minatitlan que sirva para simplificar y automatizar procesos que actualmente son tediosos.
+Chatbot para el TECNM campus Minatitlan que sirve para simplificar y automatizar procesos que actualmente son tediosos.
